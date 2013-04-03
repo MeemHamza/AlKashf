@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+я╗┐<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
@@ -6,13 +6,13 @@
         id        = "com.AlKashfAlMubakkir"
         version   = "1.0.1">
 
-    <name>╟с▀╘▌ ╟су╚▀╤ .. ═э╟╔</name>
+    <name>╪з┘Д┘Г╪┤┘Б ╪з┘Д┘Е╪и┘Г╪▒ .. ╪н┘К╪з╪й</name>
 
     <description>
-           ╟с▀╘▌ ╟су╚▀╤ .. ═э╟╔    </description>
+           ╪з┘Д┘Г╪┤┘Б ╪з┘Д┘Е╪и┘Г╪▒ .. ╪н┘К╪з╪й    </description>
 
     <author href="http://phonegap.com" email="almubarmij@gmail.com">
-        ╟су╚╤у╠
+        ╪з┘Д┘Е╪и╪▒┘Е╪м
     </author>
 
     <!--
